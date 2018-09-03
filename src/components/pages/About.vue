@@ -4,7 +4,7 @@
     <!-- extra small fills the whole screen, Small fills most of the screen, medium and up fills just the center of the screen-->
     <v-flex xs12 sm10 offset-sm1 md8 offset-md2>
       <v-card>
-        <img class='img-round img-rescale img-center' width="300px" src='../../assets/profile_photo.jpeg'></img>
+        <img class='img-round img-rescale img-center' width="300px" src='../../assets/profile_photo4.jpg'></img>
         <v-card-text class='subheading'>
           <p>
             Hello, My name is <strong>Mario Bolaños</strong>. I am a Full Stack Developer and a Computer Science and Systems Engineering student at <strong>Pontificia Universidad Javeriana Cali</strong> (PUJ). I am interested in a wide variety of domains in Computer Science, but regardless of what I am working on, my focus is designing high quality, practical, readable, and maintainable code.
