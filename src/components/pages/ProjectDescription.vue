@@ -21,7 +21,7 @@
             <div class='mt-3 mb-2 headline grey--text'>
               Gallery
             </div>
-            <img :src="projectDescription.gallery" alt="Image">
+            <img class='img-rescale img-center' width="300px" :src="projectDescription.gallery" alt="Image">
           </template>
         </v-card-text>
 
