@@ -1,0 +1,149 @@
+/* ------------------------------------------------
+  Project:   Softino - Software Landing Page HTML5 Template
+  Author:    ThemeHt
+
+  NOTE: This is Color customizer stylesheet of template.
+------------------------------------------------ */
+
+/* ------------------------
+    General
+------------------------*/
+::-moz-selection { background: #FF512F; color: #fff; text-shadow: none; }
+::-moz-selection { background: #FF512F; color: #fff; text-shadow: none; }
+::selection { background: #FF512F; color: #fff; text-shadow: none; }
+
+ 
+/* ------------------------
+    Background Color
+------------------------*/
+.theme-bg,
+div.color-customizer a.opener,
+.btn:hover,
+.btn.btn-dark:hover,
+.owl-carousel.owl-theme .owl-dots .owl-dot:hover span, .owl-carousel.owl-theme .owl-dots .owl-dot.active span,
+.scroll-top a,
+.pagination > li.active .page-link, .page-link:hover, .page-link:focus,
+.accordion .card.active a, .accordion .card a:hover,
+.accordion .card-header a span::before, .accordion .card-header a span::after,
+.title-effect .bar,
+.title-effect-2 .ellipse,
+.video-btn .play-btn,
+.tab .nav-tabs .nav-link.active, .tab .nav-tabs .nav-link:hover, .tab .nav-tabs.active > a:focus, .tab .nav-tabs > a:hover,
+.tab.style-2 .nav-tabs .nav-link i::after, .tab .nav-tabs .nav-link.active i::after, .tab .nav-tabs.active > a:focus i::after,
+.team-member.style-3::before, .team-member.style-3::after,
+.testimonial.style-1::before,
+.testimonial.style-4::after,
+.testimonial-caption::after,
+.icon-btn:hover,
+.box-loader span,
+.post .post-image::before,
+.post .post-image::after,
+.post .post-categories,
+.post-title::after,
+.post.style-3 .post-meta::after,
+.post-tags li a:hover,
+.list-icon-2 li::before,
+.price-table.style-3.active,
+.bg-effect-4::after,
+.ht-progress-bar .progress .progress-bar,
+.timeline-content::before, .timeline-content::after
+{ background-color: #FF512F;}
+
+.testimonial-caption::before, .post-title::before, .post.style-3 .post-meta::before, .timeline-inner::after, .home-6 .banner .bnr-box{background-color: #f09819;}
+
+/* ------------------------
+    Color
+------------------------*/
+a, button, input, 
+a:focus, a:hover,
+.text-theme,
+.navbar-nav .nav-link:hover, .navbar-nav .nav-item .nav-link.active,
+.navbar-nav .nav-link:hover::before, .navbar-nav .nav-item .nav-link.active::before, .navbar-nav .nav-link:focus::before,
+.navbar-nav ul a:hover,
+.navbar-nav ul a:hover::before,
+.navbar-nav ul a:focus::before,
+.header-3 #header-wrap.fixed-header .navbar-nav .nav-link:hover, .header-3 #header-wrap.fixed-header .navbar-nav .nav-item .nav-link.active,
+.header-3 #header-wrap.fixed-header .navbar-nav .nav-link:hover::before,
+.header-3 #header-wrap.fixed-header .navbar-nav .nav-link:hover::before,
+.header-3 #header-wrap.fixed-header .navbar-nav .nav-link.active::before,
+.navbar-nav .nav-link.highlighted,
+h1 span,
+.btn-simple:hover,
+.btn.btn-white:hover,
+.btn.btn-white.btn-border:hover,
+.btn:focus, .btn.focus,
+.breadcrumb-item.active, .breadcrumb-item a:hover,
+.list-icon li i,
+.tab.style-2 .nav-tabs .nav-link:hover h5, .tab.style-2 .nav-tabs .nav-link.active h5, .tab.style-2 .nav-tabs.active > a:focus h5,
+.testimonial .testimonial-caption h5,
+.price-title,
+.price-list li i,
+.post .post-desc h4 a:hover,
+.post-meta ul li i,
+.comment-reply a:hover,
+.comment-date,
+.footer-list li a:hover,
+.counter span,
+.search-button,
+.widget .widget-categories li a:hover,
+.widget .recent-post-desc a:hover,
+.scroll-top a:hover, .scroll-top a:focus,
+.team-member .team-description h5,
+.team-link:hover,
+.team-description .team-icon li i,
+.team-description .team-icon li a:hover,
+.theme-bg .video-btn .play-btn, .dark-bg .video-btn .play-btn,
+.featured-item .featured-icon i,
+.step-num,
+.dark-bg .step-desc h4,
+.media-icon li a,
+.contact-media i,
+.widget-searchbox .search-btn,
+.timeline-title h2
+{color: #FF512F;}
+
+.price-table.style-2 .price-title,
+.post-categories:hover,
+.counter i,
+.featured-item.style-1:hover .featured-icon i,
+.featured-item.style-2:hover .featured-icon i,
+.featured-item.style-6:hover .featured-icon i{color: #f09819}
+
+/* ------------------------
+    Border Color
+------------------------*/
+.owl-carousel.owl-theme .owl-dots .owl-dot span::before,
+.form-control:focus,
+.reply a:hover,
+.pagination > li.active .page-link, .page-link:hover, .page-link:focus,
+.owl-carousel .owl-nav button.owl-prev:hover,
+.owl-carousel .owl-nav button.owl-next:hover,
+.featured-item.style-6:hover .featured-icon i::after,
+.testimonial-carousel .controls li.active:after,
+.testimonial-carousel .controls li.active:before,
+.testimonial.style-2 .testimonial-img:before,
+.testimonial.style-2 .testimonial-img:after,
+.contact-media,
+.timeline-inner::before
+{border-color: #FF512F;}
+
+[class*="col-"]:nth-child(2) .contact-media
+{border-color: #f09819;}
+
+/* ------------------------
+  Grediant Color
+------------------------*/
+.btn.btn-theme,
+.owl-carousel .owl-nav button.owl-prev:hover,
+.owl-carousel .owl-nav button.owl-next:hover{background: rgb(255,81,47); background: linear-gradient(90deg, rgba(255,81,47,1) 0%, rgba(240,152,25,1) 80%);  color: #ffffff;}
+[data-overlay].grediant-overlay:before{background: rgb(255,81,47); background: linear-gradient(90deg, rgba(255,81,47,1) 0%, rgba(240,152,25,1) 80%);}
+.featured-item::before {background: rgb(255,81,47); background: linear-gradient(180deg, rgba(255,81,47,1) 0%, rgba(240,152,25,1) 80%);}
+.grediant-bg{background: rgb(255,81,47); background: linear-gradient(90deg, rgba(255,81,47,1) 0%, rgba(240,152,25,1) 80%);}
+
+
+@media (max-width: 992px){
+.navbar-toggler span,
+.header-3 #header-wrap.fixed-header .navbar-toggler span{background-color: #FF512F;}
+.header-3 .navbar-nav .nav-link:hover, .header-3 .navbar-nav .nav-item .nav-link.active,
+.header-3 .navbar-nav .nav-link:hover::before, .header-3 .navbar-nav .nav-item .nav-link.active::before, .header-3 .navbar-nav .nav-link:focus::before{color: #FF512F}
+}
